@@ -1,0 +1,14 @@
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\bin\Debug\net7.0\Lab 01 progra Krystel Salazar.exe
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\bin\Debug\net7.0\Lab 01 progra Krystel Salazar.deps.json
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\bin\Debug\net7.0\Lab 01 progra Krystel Salazar.runtimeconfig.json
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\bin\Debug\net7.0\Lab 01 progra Krystel Salazar.dll
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\bin\Debug\net7.0\Lab 01 progra Krystel Salazar.pdb
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\Lab 01 progra Krystel Salazar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\Lab 01 progra Krystel Salazar.AssemblyInfoInputs.cache
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\Lab 01 progra Krystel Salazar.AssemblyInfo.cs
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\Lab 01 progra Krystel Salazar.csproj.CoreCompileInputs.cache
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\Lab 01 progra Krystel Salazar.dll
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\refint\Lab 01 progra Krystel Salazar.dll
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\Lab 01 progra Krystel Salazar.pdb
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\Lab 01 progra Krystel Salazar.genruntimeconfig.cache
+C:\Users\Kristel\Desktop\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\Lab 01 progra Krystel Salazar\obj\Debug\net7.0\ref\Lab 01 progra Krystel Salazar.dll
